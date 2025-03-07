@@ -56,7 +56,7 @@ controller:
     NF_PORT: 80
     AMF_DID: "KQmkmEHAUb59MCBWGvHL8u"
     AUSF_DID: "Y3vuh72yVH3JPokz868i9L"
-    NRF_DID: "S3SuLKgDtfALEshJLsQ6s5"
+    NRF_DID: "did:indy:idunion:test:y77ZersNcdw9QaT2Jwucv"
     NSSF_DID: "Wg2idaauZ9i2kQfRMUJh43"
     PCF_DID: "R2oSXYqQLZ1wTDBQHZZcMH"
     SMF_DID: "KGQpk9XCTeSb8iFUWRo61r"
