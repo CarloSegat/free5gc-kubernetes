@@ -100,6 +100,8 @@ acapy:
     ADMIN_PORT: "7777"
     AGENT_PORT: "5555"
     SEED: "hLvkfV2vkFhmUnN3dfJsdUWqIAwoilnH"
+    ACAPY_UNIVERSAL_RESOLVER: "https://dev.uniresolver.io/1.0/identifiers/"
+    ACAPY_UNIVERSAL_RESOLVER_REGEX: "did:indy:idunion:test:.*"
   service: 
     type: ClusterIP
     port: 5555
